@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/mathew/.nvm/versions/node/v14.15.1/include/node/**",
+                "/Users/mathew/.nvm/versions/node/v14.15.1/lib/node_modules/node-gyp/**",
+                "node_modules/**",
+                "/usr/local/Cellar/dcmtk/3.6.6/include/**"
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "compilerPath": "/usr/local/bin/gcc-11",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "macos-gcc-x64"
+        }
+    ],
+    "version": 4
+}

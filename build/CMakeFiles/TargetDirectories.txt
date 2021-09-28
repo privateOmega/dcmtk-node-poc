@@ -1,0 +1,3 @@
+/Users/mathew/Projects/node-addon/build/CMakeFiles/rebuild_cache.dir
+/Users/mathew/Projects/node-addon/build/CMakeFiles/edit_cache.dir
+/Users/mathew/Projects/node-addon/build/CMakeFiles/dcmtk-wrapper.dir
